@@ -1,6 +1,6 @@
 # Raejs
 contains :
-ng bootstrap table example with search/pagination/sorting,
+ng bootstrap,ng table example with search/pagination/sorting,
 http service with example,
 routing with example,
 bootstrap scss main structure containers,
