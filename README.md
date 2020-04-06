@@ -1,10 +1,11 @@
 # Raejs
 contains :
-ng bootstrap table example with search/pagination/sorting
-http service with example
-routing with example
-bootstrap scss main structure containers
-page component examples for routing
+ng bootstrap table example with search/pagination/sorting,
+http service with example,
+routing with example,
+bootstrap scss main structure containers,
+page component examples for routing.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 ## Development server
