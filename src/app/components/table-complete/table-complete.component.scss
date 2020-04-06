@@ -1,0 +1,43 @@
+
+input.form-control.ml-2.ng-pristine{
+    width: 25% ;
+  }
+  
+  table a{
+      margin:0 3px;
+  }
+  
+  i {
+      border: solid black;
+      border-width: 0 3px 3px 0;
+      display: none;
+      padding: 3px;
+      margin-right: 3px;
+    }
+  
+    .asc i{
+      transform: rotate(-135deg);
+      -webkit-transform: rotate(-135deg);
+      display: inline-block;
+    }
+    
+    .desc i{
+      transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);        
+      display: inline-block;
+    }
+  
+    a:not([href]){
+      color: #007bff;
+      text-decoration: none;
+  }
+  
+  td.hidden
+  {
+    display: none;
+  }
+  
+  a:not([href]):hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
