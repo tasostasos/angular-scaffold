@@ -1,4 +1,4 @@
-# Raejs
+# Angular scaffold
 contains :
 ng bootstrap,ng table example with search/pagination/sorting,
 http service with example,
