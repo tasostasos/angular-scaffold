@@ -1,5 +1,5 @@
 # Angular scaffold
-This is an initializer project to be used as a scaffold for any angular web application,contains many of the core services,components and controllers that any developer will need to start his project,ready to use.
+This is an initializer project to be used as a scaffold for any angular web application,contains many of the core services,components and controllers that any developer will need.
 contains :
 ng bootstrap,ng table example with search/pagination/sorting,
 http service with example,
